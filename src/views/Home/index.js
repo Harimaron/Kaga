@@ -5,7 +5,6 @@ import {
   Title,
   Text,
   Links,
-  LinkWrapper,
   Header,
   Content,
   Grey,
