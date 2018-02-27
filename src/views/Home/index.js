@@ -23,7 +23,7 @@ const Home = () => (
       <Text>
         <Animate>Front-End Developer</Animate>, currently studying at BeCode.org
       </Text>
-      <Text>— Brussels, Belgium —</Text>
+      <Text>Brussels, Belgium</Text>
       <Links>
         <Link name="twitter" url="https://www.twitter.com" />
         <Link name="linkedin" url="https://www.linkedin.com" />

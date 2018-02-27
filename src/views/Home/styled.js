@@ -13,7 +13,7 @@ export const Wrapper = styled.div`
 export const Title = styled.div`
   font-size: 2.5em;
   font-weight: 600;
-  text-transform: uppercase;
+
   margin-top: 1em;
   margin-bottom: 0.3em;
   color: white;
