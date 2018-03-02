@@ -21,7 +21,7 @@ const Home = () => (
         Hi, I'm <Grey>Gaëtan Ribonnet</Grey>,
       </Title>
       <Text>
-        <Animate>Front-End Developer</Animate>, currently studying at BeCode.org
+        <Animate>Junior Developer</Animate>, currently studying at BeCode.org
       </Text>
       <Text>Brussels, Belgium</Text>
       <Links>
