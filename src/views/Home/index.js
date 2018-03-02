@@ -25,11 +25,9 @@ const Home = () => (
       </Text>
       <Text>Brussels, Belgium</Text>
       <Links>
-        <Link name="twitter" url="https://www.twitter.com" />
-        <Link name="linkedin" url="https://www.linkedin.com" />
-        <Link name="github" url="https://www.github.com" />
-        <Link name="codepen" url="https://www.github.com" />
-        <Link name="dribbble" url="https://www.github.com" />
+        <Link name="linkedin" url="https://www.linkedin.com/in/gribonnet/" />
+        <Link name="github" url="https://github.com/Harimaron" />
+        <Link name="envelope" url="mailto:gaetan.ribonnet@outlook.com" />
       </Links>
     </Content>
   </Wrapper>
