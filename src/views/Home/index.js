@@ -16,7 +16,7 @@ const Home = () => (
   <Wrapper>
     <Header />
     <Content>
-      <Image src="https://i.imgur.com/9g8bRR5.png" />
+      <Image src="https://i.imgur.com/ETBBK6N.png" />
       <Title>
         Hi, I'm <Grey>Gaëtan Ribonnet</Grey>,
       </Title>
